@@ -21,11 +21,13 @@ First public release of the BISM Wallet Android app (`com.bismify.bism`).
 - **Portal URLs:** the wallet links to `https://wallet.bismify.com` for terms,
   privacy, about and the download page.
 
-Built from the wallet source branch `bism/task/BISM-WALLET-M19` @ `0486b6e`
-(Flutter 3.44.0 / Dart 3.12.0), which is after the internal build tag
-**BISM-WALLET-M14**. There was no separate public `v1.0.0` artifact before this
-release, so this first public release already includes the post-M14 changes
-(BISM-only selector, PIN/seed model, `bismify:` network id, rebranding).
+Built from the wallet source branch `bism/task/BISM-OPS-004` @ `09eff16`
+(stacked on `bism/task/BISM-WALLET-M19` @ `0486b6e`; Flutter 3.44.0 / Dart
+3.12.0), which is after the internal build tag **BISM-WALLET-M14**. There was no
+separate public `v1.0.0` artifact before this release, so this first public
+release already includes the post-M14 changes (BISM-only selector, PIN/seed
+model, `bismify:` network id, rebranding) plus the `wallet.bismify.com` portal
+URLs (BISM-OPS-004).
 
 ### Assets
 
