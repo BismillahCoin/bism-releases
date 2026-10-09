@@ -1,0 +1,6 @@
+# BISM Wallet release binaries — ignore rules
+# No source code lives here; only docs + release assets.
+*.apk
+*.aab
+*.apk.idsig
+.DS_Store
